@@ -1,0 +1,8 @@
+{
+    "require": {
+        "mgp25/instagram-php": "^1.5"
+    },
+    "autoload": {
+      "classmap": ["app/"]
+    }
+}
