@@ -1,6 +1,6 @@
 # INSTABOT (ARCHIVE)
 
-#### English documentation will be write 
+#### English documentation will be writing 
 
 ## Gekeli araçlar
 
